@@ -1,10 +1,11 @@
 {
-    "data_path": "new",
+    "data_path": "data",
     "start_date": 0,
     "end_date": 0,
     "timer": 600,
     "tcost": 2,
     "broadcast": [
-        "EBX"
+        "EBX",
+        "EBY"
     ]
 }
